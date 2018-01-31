@@ -1,3 +1,3 @@
-# sarabun
+# Sarabun
 Sarabun
 The most popular typeface from the 13 fonts from SIPA Thailand’s National fonts project. Sarabun was designed by Suppakit Chalermlarp to be a serious text face. Great choice for a long reading formal text. This font was selected by the royal Thai government to be the official typeface for documentation purpose. It was also adopted by many private organizations to be used as a communication font. Sarabun has a slightly condensed proportion which fits perfectly with Thai legibility. It also carries a neutral Thai traditional loop design which can easily fit in with any occasion. Probably one of the most today’s familiar Thai loop typefaces.
