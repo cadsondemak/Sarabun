@@ -1,5 +1,5 @@
 {
-.appVersion = "983";
+.appVersion = "1075";
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
 {
@@ -5408,67 +5408,20 @@ unicode = 1E24;
 {
 color = 0;
 glyphname = IJ;
-lastChange = "2017-12-19 05:22:42 +0000";
+lastChange = "2018-02-12 10:20:05 +0000";
 layers = (
 {
-layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"472 -114 OFFCURVE",
-"561 -45 OFFCURVE",
-"561 89 CURVE SMOOTH",
-"561 637 LINE SMOOTH",
-"561 662 OFFCURVE",
-"581 673 OFFCURVE",
-"619 673 CURVE SMOOTH",
-"649 673 LINE",
-"649 700 LINE",
-"376 700 LINE",
-"376 673 LINE",
-"405 673 LINE SMOOTH",
-"444 673 OFFCURVE",
-"463 662 OFFCURVE",
-"463 637 CURVE SMOOTH",
-"463 90 LINE SMOOTH",
-"463 -8 OFFCURVE",
-"424 -75 OFFCURVE",
-"339 -93 CURVE",
-"343 -114 LINE"
-);
+name = I;
 },
 {
-closed = 1;
-nodes = (
-"298 0 LINE",
-"298 26 LINE",
-"270 26 LINE SMOOTH",
-"231 26 OFFCURVE",
-"211 37 OFFCURVE",
-"211 62 CURVE SMOOTH",
-"211 637 LINE SMOOTH",
-"211 662 OFFCURVE",
-"231 673 OFFCURVE",
-"270 673 CURVE SMOOTH",
-"298 673 LINE",
-"298 700 LINE",
-"26 700 LINE",
-"26 673 LINE",
-"55 673 LINE SMOOTH",
-"93 673 OFFCURVE",
-"113 662 OFFCURVE",
-"113 637 CURVE SMOOTH",
-"113 62 LINE SMOOTH",
-"113 37 OFFCURVE",
-"93 26 OFFCURVE",
-"55 26 CURVE SMOOTH",
-"26 26 LINE",
-"26 0 LINE"
-);
+name = J;
+transform = "{1, 0, 0, 1, 216, 0}";
 }
 );
-width = 675;
+layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
+width = 604;
 }
 );
 note = IJ;
