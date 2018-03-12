@@ -1,5 +1,9 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+/Lcaron,
+/dcaron
+);
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
 {
@@ -8099,7 +8103,7 @@ unicode = 0139;
 {
 color = 4;
 glyphname = Lcaron;
-lastChange = "2018-02-26 14:56:45 +0000";
+lastChange = "2018-03-12 19:49:54 +0000";
 layers = (
 {
 components = (
@@ -8107,8 +8111,8 @@ components = (
 name = L;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 119, 200}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 296, 0}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -14262,7 +14266,7 @@ unicode = 00F0;
 {
 color = 4;
 glyphname = dcaron;
-lastChange = "2018-02-19 18:19:07 +0000";
+lastChange = "2018-03-12 19:50:03 +0000";
 layers = (
 {
 components = (
@@ -15242,7 +15246,7 @@ unicode = 1EC9;
 {
 color = 4;
 glyphname = ij;
-lastChange = "2018-02-26 16:15:41 +0000";
+lastChange = "2018-03-07 15:20:29 +0000";
 layers = (
 {
 components = (
@@ -15264,7 +15268,7 @@ unicode = 0133;
 {
 color = 4;
 glyphname = imacron;
-lastChange = "2018-02-26 16:15:41 +0000";
+lastChange = "2018-03-07 15:20:29 +0000";
 layers = (
 {
 components = (
@@ -15286,7 +15290,7 @@ unicode = 012B;
 {
 color = 4;
 glyphname = iogonek;
-lastChange = "2018-02-26 16:15:41 +0000";
+lastChange = "2018-03-07 15:20:28 +0000";
 layers = (
 {
 components = (
@@ -15312,7 +15316,7 @@ unicode = 012F;
 {
 color = 4;
 glyphname = itilde;
-lastChange = "2018-02-26 16:15:42 +0000";
+lastChange = "2018-03-07 15:20:28 +0000";
 layers = (
 {
 components = (
@@ -15381,7 +15385,7 @@ unicode = 0237;
 {
 color = 4;
 glyphname = jcircumflex;
-lastChange = "2018-02-26 16:32:49 +0000";
+lastChange = "2018-03-07 15:20:27 +0000";
 layers = (
 {
 components = (
@@ -15404,7 +15408,7 @@ unicode = 0135;
 {
 color = 4;
 glyphname = kcommaaccent;
-lastChange = "2018-02-26 16:32:50 +0000";
+lastChange = "2018-03-07 15:20:26 +0000";
 layers = (
 {
 components = (
@@ -15475,7 +15479,7 @@ unicode = 0138;
 {
 color = 4;
 glyphname = lacute;
-lastChange = "2018-03-05 16:55:05 +0000";
+lastChange = "2018-03-07 15:20:24 +0000";
 layers = (
 {
 components = (
@@ -15497,7 +15501,7 @@ unicode = 013A;
 {
 color = 4;
 glyphname = lcaron;
-lastChange = "2018-03-05 16:55:05 +0000";
+lastChange = "2018-03-07 15:20:21 +0000";
 layers = (
 {
 components = (
@@ -15505,12 +15509,12 @@ components = (
 name = l;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 109, 242}";
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 144, 0}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
-width = 286;
+width = 295;
 }
 );
 note = lcaron;
