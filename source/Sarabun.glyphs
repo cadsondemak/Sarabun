@@ -10,7 +10,8 @@ DisplayStrings = (
 "/thanthakhat-thai",
 "/thanthakhat-thai.narrow",
 "/thanthakhat-thai.small",
-"/maitaikhu-thai.narrow"
+"/maitaikhu-thai.narrow",
+/dotaccent
 );
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
@@ -39897,7 +39898,7 @@ note = circumflextilde;
 {
 color = 4;
 glyphname = dieresis;
-lastChange = "2018-03-15 14:14:33 +0000";
+lastChange = "2018-03-30 07:49:39 +0000";
 layers = (
 {
 components = (
@@ -39916,7 +39917,7 @@ unicode = 00A8;
 {
 color = 4;
 glyphname = dieresis_acute;
-lastChange = "2018-02-26 16:42:05 +0000";
+lastChange = "2018-03-30 07:49:36 +0000";
 layers = (
 {
 anchors = (
@@ -39954,7 +39955,7 @@ note = dieresisacute;
 {
 color = 4;
 glyphname = dieresis_caron;
-lastChange = "2018-02-26 16:42:06 +0000";
+lastChange = "2018-03-30 07:49:35 +0000";
 layers = (
 {
 anchors = (
@@ -39995,7 +39996,7 @@ note = dieresiscaron;
 {
 color = 4;
 glyphname = dieresis_grave;
-lastChange = "2018-02-26 16:42:06 +0000";
+lastChange = "2018-03-30 07:49:26 +0000";
 layers = (
 {
 anchors = (
@@ -40033,7 +40034,7 @@ note = dieresisgrave;
 {
 color = 4;
 glyphname = dieresis_macron;
-lastChange = "2018-03-15 14:14:33 +0000";
+lastChange = "2018-03-30 07:49:39 +0000";
 layers = (
 {
 anchors = (
@@ -40053,7 +40054,7 @@ transform = "{1, 0, 0, 1, -200, 0}";
 },
 {
 name = macron;
-transform = "{0.84086, 0, 0, 1, -168, -103}";
+transform = "{0.84086, 0, 0, 1, -168, 89}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
