@@ -1,7 +1,9 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/boBaimai-thai/maiEk-thai/boBaimai-thai/maiTho-thai/boBaimai-thai/maiTri-thai/boBaimai-thai/maiChattawa-thai/boBaimai-thai/thanthakhat-thai/boBaimai-thai/maitaikhu-thai/poPla-thai/maiEk-thai/poPla-thai/maiTho-thai/poPla-thai/maiTri-thai/poPla-thai/maiChattawa-thai/poPla-thai/thanthakhat-thai/poPla-thai/maitaikhu-thai \012\012/boBaimai-thai/saraIi-thai/maiEk-thai/boBaimai-thai/saraIi-thai/maiTho-thai/boBaimai-thai/saraIi-thai/maiTri-thai/boBaimai-thai/saraIi-thai/maiChattawa-thai/boBaimai-thai/saraI-thai/thanthakhat-thai/poPla-thai/saraIi-thai/maiEk-thai/poPla-thai/saraIi-thai/maiTho-thai/poPla-thai/saraIi-thai/maiTri-thai/poPla-thai/saraIi-thai/maiChattawa-thai/poPla-thai/saraI-thai/thanthakhat-thai \012\012/boBaimai-thai/maiHanaKat-thai/maiEk-thai/boBaimai-thai/maiHanaKat-thai/maiTho-thai/boBaimai-thai/maiHanaKat-thai/maiTri-thai/boBaimai-thai/maiHanaKat-thai/maiChattawa-thai  /poPla-thai/maiHanaKat-thai/maiEk-thai/poPla-thai/maiHanaKat-thai/maiTho-thai/poPla-thai/maiHanaKat-thai/maiTri-thai/poPla-thai/maiHanaKat-thai/maiChattawa-thai"
+"/boBaimai-thai/maiEk-thai/boBaimai-thai/maiTho-thai/boBaimai-thai/maiTri-thai/boBaimai-thai/maiChattawa-thai/boBaimai-thai/thanthakhat-thai/boBaimai-thai/maitaikhu-thai/poPla-thai/maiEk-thai/poPla-thai/maiTho-thai/poPla-thai/maiTri-thai/poPla-thai/maiChattawa-thai/poPla-thai/thanthakhat-thai/poPla-thai/maitaikhu-thai \012\012/boBaimai-thai/saraIi-thai/maiEk-thai/boBaimai-thai/saraIi-thai/maiTho-thai/boBaimai-thai/saraIi-thai/maiTri-thai/boBaimai-thai/saraIi-thai/maiChattawa-thai/boBaimai-thai/saraI-thai/thanthakhat-thai/poPla-thai/saraIi-thai/maiEk-thai/poPla-thai/saraIi-thai/maiTho-thai/poPla-thai/saraIi-thai/maiTri-thai/poPla-thai/saraIi-thai/maiChattawa-thai/poPla-thai/saraI-thai/thanthakhat-thai \012\012/boBaimai-thai/maiHanaKat-thai/maiEk-thai/boBaimai-thai/maiHanaKat-thai/maiTho-thai/boBaimai-thai/maiHanaKat-thai/maiTri-thai/boBaimai-thai/maiHanaKat-thai/maiChattawa-thai  /poPla-thai/maiHanaKat-thai/maiEk-thai/poPla-thai/maiHanaKat-thai/maiTho-thai/poPla-thai/maiHanaKat-thai/maiTri-thai/poPla-thai/maiHanaKat-thai/maiChattawa-thai",
+4,
+0123456789
 );
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
@@ -28757,46 +28759,10 @@ unicode = 0033;
 {
 color = 4;
 glyphname = four;
-lastChange = "2018-02-26 18:59:41 +0000";
+lastChange = "2018-04-15 14:46:49 +0000";
 layers = (
 {
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"403 0 LINE",
-"403 163 LINE",
-"500 163 LINE",
-"507 218 LINE",
-"403 218 LINE",
-"403 717 LINE",
-"295 695 OFFCURVE",
-"210 635 OFFCURVE",
-"146 534 CURVE SMOOTH",
-"82 432 OFFCURVE",
-"49 309 OFFCURVE",
-"47 163 CURVE",
-"344 163 LINE",
-"344 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"112 304 OFFCURVE",
-"134 388 OFFCURVE",
-"176 467 CURVE SMOOTH",
-"221 551 OFFCURVE",
-"276 609 OFFCURVE",
-"344 642 CURVE",
-"344 218 LINE",
-"110 218 LINE"
-);
-}
-);
-};
-layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
 paths = (
 {
 closed = 1;
@@ -28824,6 +28790,34 @@ nodes = (
 "383 642 CURVE",
 "383 178 LINE",
 "105 178 LINE"
+);
+}
+);
+};
+layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
+paths = (
+{
+closed = 1;
+nodes = (
+"434 0 LINE",
+"434 128 LINE",
+"516 128 LINE",
+"516 178 LINE",
+"434 178 LINE",
+"434 700 LINE",
+"350 700 LINE",
+"48 191 LINE",
+"48 128 LINE",
+"376 128 LINE",
+"376 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"376 652 LINE",
+"376 178 LINE",
+"98 178 LINE"
 );
 }
 );
