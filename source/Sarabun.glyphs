@@ -156602,7 +156602,7 @@ unicode = 20AB;
 },
 {
 glyphname = euro;
-lastChange = "2018-06-18 11:14:11 +0000";
+lastChange = "2018-06-18 19:33:02 +0000";
 layers = (
 {
 components = (
@@ -156662,7 +156662,7 @@ nodes = (
 );
 }
 );
-width = 686;
+width = 692;
 },
 {
 components = (
@@ -156723,7 +156723,7 @@ nodes = (
 );
 }
 );
-width = 686;
+width = 692;
 },
 {
 components = (
