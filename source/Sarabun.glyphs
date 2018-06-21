@@ -199,9 +199,9 @@ value = n;
 );
 descender = -250;
 horizontalStems = (
-34,
 23,
 27,
+34,
 70
 );
 iconName = Light;
@@ -211,10 +211,10 @@ GSOffsetHorizontal = 50;
 GSOffsetVertical = 30;
 };
 verticalStems = (
-38,
 26,
 29,
 34,
+38,
 72
 );
 widthValue = 0;
@@ -261,9 +261,9 @@ value = n;
 );
 descender = -250;
 horizontalStems = (
-76,
 55,
 68,
+76,
 102,
 143
 );
@@ -319,7 +319,6 @@ value = n;
 );
 descender = -250;
 horizontalStems = (
-128,
 105,
 142,
 169
@@ -331,8 +330,8 @@ GSOffsetHorizontal = 40;
 GSOffsetVertical = 30;
 };
 verticalStems = (
-142,
 96,
+142,
 161
 );
 weight = Bold;
@@ -382,9 +381,9 @@ value = n;
 );
 descender = -250;
 horizontalStems = (
-34,
 23,
 27,
+34,
 70
 );
 id = "1781F524-7973-4932-8D2B-6055E077B411";
@@ -394,8 +393,8 @@ GSOffsetHorizontal = 50;
 GSOffsetVertical = 30;
 };
 verticalStems = (
-38,
 35,
+38,
 73
 );
 widthValue = 1;
@@ -443,18 +442,18 @@ value = n;
 );
 descender = -250;
 horizontalStems = (
-76,
 55,
 68,
+76,
 102,
 143
 );
 id = "BC946E28-F4D1-4B1D-9CE5-1B4AE2F9B39A";
 italicAngle = 10;
 verticalStems = (
-106,
 78,
-86
+86,
+106
 );
 weightValue = 400;
 widthValue = 1;
@@ -502,8 +501,8 @@ value = n;
 );
 descender = -250;
 horizontalStems = (
-128,
 105,
+128,
 142,
 169
 );
@@ -515,8 +514,8 @@ GSOffsetHorizontal = 40;
 GSOffsetVertical = 30;
 };
 verticalStems = (
-146,
 68,
+146,
 163
 );
 weight = Bold;
@@ -197655,6 +197654,7 @@ name = Thin;
 weightClass = Thin;
 },
 {
+exports = 0;
 interpolationWeight = 200;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -197665,6 +197665,7 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
+exports = 0;
 interpolationWeight = 300;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -197683,6 +197684,7 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+exports = 0;
 interpolationWeight = 500;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -197693,6 +197695,7 @@ name = Medium;
 weightClass = Medium;
 },
 {
+exports = 0;
 interpolationWeight = 600;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -197703,6 +197706,7 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+exports = 0;
 interpolationWeight = 700;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -197732,6 +197736,7 @@ name = "Thin Italic";
 weightClass = Thin;
 },
 {
+exports = 0;
 interpolationWeight = 200;
 interpolationWidth = 1;
 instanceInterpolations = {
@@ -197744,6 +197749,7 @@ name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
+exports = 0;
 interpolationWeight = 300;
 interpolationWidth = 1;
 instanceInterpolations = {
@@ -197766,6 +197772,7 @@ linkStyle = Regular;
 name = Italic;
 },
 {
+exports = 0;
 interpolationWeight = 500;
 interpolationWidth = 1;
 instanceInterpolations = {
@@ -197778,6 +197785,7 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
+exports = 0;
 interpolationWeight = 600;
 interpolationWidth = 1;
 instanceInterpolations = {
@@ -197790,6 +197798,7 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
+exports = 0;
 interpolationWeight = 700;
 interpolationWidth = 1;
 instanceInterpolations = {
