@@ -193120,7 +193120,7 @@ note = "saraUe-thai.narrow";
 },
 {
 glyphname = "saraUee-thai";
-lastChange = "2018-08-01 09:51:01 +0000";
+lastChange = "2018-08-01 16:20:37 +0000";
 layers = (
 {
 anchors = (
@@ -193130,7 +193130,7 @@ position = "{-84, 576}";
 },
 {
 name = top;
-position = "{-136, 950}";
+position = "{-137, 950}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -193198,7 +193198,7 @@ position = "{-60, 576}";
 },
 {
 name = top;
-position = "{-101, 955}";
+position = "{-115, 955}";
 }
 );
 layerId = "ECFE7DEB-F40D-44C7-B7CF-D3B40F3B51F8";
@@ -193266,7 +193266,7 @@ position = "{-74, 576}";
 },
 {
 name = top;
-position = "{-132, 952}";
+position = "{-133, 952}";
 }
 );
 layerId = "E6340435-1C2D-4187-91B6-2B8E20EF3542";
@@ -193334,7 +193334,7 @@ position = "{-3, 576}";
 },
 {
 name = top;
-position = "{23, 955}";
+position = "{9, 955}";
 }
 );
 layerId = "CAD36325-8B27-45AE-AB38-7E116081C841";
@@ -193402,7 +193402,7 @@ position = "{-17, 576}";
 },
 {
 name = top;
-position = "{-8, 952}";
+position = "{-9, 952}";
 }
 );
 layerId = "BC946E28-F4D1-4B1D-9CE5-1B4AE2F9B39A";
@@ -193470,7 +193470,7 @@ position = "{-26, 576}";
 },
 {
 name = top;
-position = "{-12, 950}";
+position = "{-13, 950}";
 }
 );
 layerId = "1781F524-7973-4932-8D2B-6055E077B411";
@@ -193536,7 +193536,7 @@ unicode = 0E37;
 },
 {
 glyphname = "saraUee-thai.narrow";
-lastChange = "2018-08-01 09:48:43 +0000";
+lastChange = "2018-08-01 16:20:25 +0000";
 layers = (
 {
 anchors = (
@@ -193818,7 +193818,7 @@ position = "{-157, 576}";
 },
 {
 name = top;
-position = "{-165, 952}";
+position = "{-155, 952}";
 }
 );
 layerId = "BC946E28-F4D1-4B1D-9CE5-1B4AE2F9B39A";
